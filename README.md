@@ -1,5 +1,5 @@
 
-![Logo of the project](./images/logo.jpeg)
+![Logo of the project](./images/logo.png)
 
 # Prajñā
 > Additional information or tag line
